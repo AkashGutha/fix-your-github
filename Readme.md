@@ -7,8 +7,13 @@ This extension pull the `sidebar` to the right forever.
 
 # How do i use this?
 
-1. Download this repo as a `zip`
-2. Open Chrome
-3. Navigate to `chrome://extensions`
-4. Drop the zip to install the extension
-5. Voila!! It just works
+⬇️ Download this repo as a `zip`
+
+😄 Open Chrome
+
+🏃 Navigate to `chrome://extensions`
+
+☔ Drop the zip to install the extension
+
+🏗 Voila!! It just works
+
