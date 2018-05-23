@@ -17,3 +17,7 @@ This extension pull the `sidebar` to the right forever.
 
 🏗 Voila!! It just works
 
+# Preview after installation
+
+![preview](./assets/preview.png)
+
